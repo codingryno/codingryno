@@ -1,17 +1,16 @@
 [![MasterHead](https://github.com/codingryno/codingryno/blob/main/banner.png?raw=true)](https://rishavchanda.io)
 
 
-<!--
-**codingryno/codingryno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello fellow developers,
 
-Here are some ideas to get you started:
+We are Team Codingryno, a group of college mates who work together on fascinating projects. 
+- Our team consists of Varun Borra, Tejaswi Reddy, Mani Reddy, and Sai Gopi. 
+- We enjoy collaborating and learning from each other as we work on various projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On this platform, we showcase our completed projects and share our experiences and insights with the community.
+We hope to inspire and educate other developers through our work.
+
+Thank you for visiting our page. We look forward to sharing our projects with you.
+
+Best regards,
+Team Codingryno
